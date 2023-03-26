@@ -12,7 +12,4 @@
 
 --Sexto COmmit!
 
-<<<<<<< HEAD
-=======
 --Septimo Commit!!
->>>>>>> develop
