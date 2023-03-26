@@ -12,4 +12,7 @@
 
 --Sexto COmmit!
 
+<<<<<<< HEAD
 --Septimo 
+=======
+>>>>>>> develop
