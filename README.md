@@ -28,7 +28,11 @@
 
 --DecimoCuarto commit! 
 
+<<<<<<< HEAD
 
 
 
 --A ver que pasa
+=======
+--DecimoQuinto commit!
+>>>>>>> develop2
