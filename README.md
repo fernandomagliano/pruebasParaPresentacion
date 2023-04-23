@@ -37,5 +37,10 @@ jbkjbn
 miau miau
 
 vamos a generar un malidto conflicto.
+<<<<<<< HEAD
 
 vamos a generar otro maldito conflicto
+=======
+vamos a generar un malidto conflicto.
+vamos a generar un malidto conflicto.
+>>>>>>> 68c49d3712f36e9f66a6e5a6ce8c5b77475ba0bf
