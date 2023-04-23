@@ -28,11 +28,10 @@
 
 --DecimoCuarto commit! 
 
-<<<<<<< HEAD
 
 
 jbkjbn
 --A ver que pasa
-=======
 --DecimoQuinto commit!
->>>>>>> develop2
+
+miau miau
