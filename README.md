@@ -36,8 +36,4 @@ jbkjbn
 
 miau miau
 
-<<<<<<< HEAD
---vamos hacer un conflicto
-=======
 vamos a generar un malidto conflicto.
->>>>>>> e2429fddb00bf949f032429f5356d4bdc855df9b
